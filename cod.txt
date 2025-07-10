@@ -1,0 +1,22 @@
+npm create vite@latest web
+cd web
+npm i
+
+npm i @biomejs/biome -D
+
+npm ultracite init
+ npx ultracite init
+
+npm instal tailwindcss @tailwindcss/vite
+
+npm instal -D @types/node
+
+npx shadcn@latest init
+npx shadcn@latest add button
+
+
+cria pg
+npm i react-router-dom
+
+requerimento api
+npm i @tanstack/react-query
