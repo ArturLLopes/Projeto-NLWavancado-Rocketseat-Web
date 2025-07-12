@@ -30,3 +30,6 @@ npm i dayjs
 
 integração com outras bibliotecas
 npm i @hokform/resolvers
+
+para leitgravação de midia
+npm i @types/dom-speech-recognition -D
